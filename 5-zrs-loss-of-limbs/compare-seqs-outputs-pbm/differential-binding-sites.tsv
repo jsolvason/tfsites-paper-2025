@@ -1,0 +1,5 @@
+site-id	tf-strength-type	tf-name	tf-definition	kmer-length	strand	start-set	wt-max-taken	wt-name	wt-group	wt-kmer	wt-strength	test-name-list	test-group-list	test-kmer-list	test-strength-list	test-strength-min	test-strength-max	control-name-list	control-group-list	control-kmer-list	control-strength-list	control-strength-min	control-strength-max	gof-delta	lof-delta	variant-effect	gof-rank	lof-rank
+3	core-affinity	Msx1	NYAATNRN	8	+	{25}	.	Human	human	CCAATTAT	0.9	['Python']	['serpintized']	['CCAATTGT']	[0.46]	0.46	0.46	['Mouse']	['mouse']	['CCAATTAT']	[0.9]	0.9	0.9		-0.44	dec		1.0
+4	core-affinity	Msx1	NYAATNRN	8	-	{32}	.	Human	human	ATAATTGG	0.9	['Python']	['serpintized']	['ACAATTGG']	[0.46]	0.46	0.46	['Mouse']	['mouse']	['ATAATTGG']	[0.9]	0.9	0.9		-0.44	dec		2.0
+0	core-affinity	Lhx2	NYAATNRN	8	+	{25}	.	Human	human	CCAATTAT	0.66	['Python']	['serpintized']	['CCAATTGT']	[0.1]	0.1	0.1	['Mouse']	['mouse']	['CCAATTAT']	[0.66]	0.66	0.66		-0.56	dec		3.0
+1	core-affinity	Lhx2	NYAATNRN	8	-	{32}	.	Human	human	ATAATTGG	0.66	['Python']	['serpintized']	['ACAATTGG']	[0.1]	0.1	0.1	['Mouse']	['mouse']	['ATAATTGG']	[0.66]	0.66	0.66		-0.56	dec		4.0

@@ -1,0 +1,21 @@
+detected homeobox?	index	dE1-Skewness	dE2-Skewness	dE1-Mean	dE2-Mean	dE1-Median	dE2-Median	control/test
+yes	Dlx2	5.47	8.05	0.03	0.02	0.00	0.00	['test']
+yes	Dlx5	3.16	3.98	0.19	0.10	0.00	0.00	['test']
+yes	Lhx2	1.75	0.89	2.16	7.09	1.17	5.92	['test']
+yes	Msx2	2.20	2.88	0.72	0.55	0.00	0.00	['test']
+yes	Alx3	1.95	1.47	0.31	0.70	0.00	0.00	"['test', 'control']"
+yes	Alx4	1.64	1.50	1.16	1.50	1.02	1.21	"['test', 'control']"
+yes	Msx1	1.10	0.95	6.01	9.91	4.04	8.41	['test']
+	Lhx9	0.41	0.49	6.24	11.57	5.94	11.17	['test']
+	Prrx1	0.51	0.46	20.05	27.29	19.46	26.77	['test']
+	Prrx2	0.98	0.89	7.57	14.15	7.12	13.25	['test']
+	Gli1	4.04	4.17	0.06	0.06	0.00	0.00	['control']
+	Gli3	1.25	0.65	5.32	14.15	4.67	13.80	['control']
+	Glis1	3.11	2.32	0.55	0.39	0.00	0.00	['control']
+	Hoxd12	4.33	9.44	0.05	0.01	0.00	0.00	['control']
+	Hoxd13	7.31	5.37	0.12	0.04	0.00	0.00	['control']
+	Irx3	4.28	5.48	0.15	0.08	0.00	0.00	['control']
+	Irx5	5.36	9.86	0.07	0.02	0.00	0.00	['control']
+	Pax9	3.66	3.97	0.59	0.07	0.00	0.00	['control']
+	Zic3	2.17	2.11	0.46	0.73	0.00	0.00	['control']
+		min=1.10						

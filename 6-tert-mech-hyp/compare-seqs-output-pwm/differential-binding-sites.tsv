@@ -1,0 +1,93 @@
+site-id	tf-strength-type	tf-name	tf-definition	kmer-length	strand	start-set	wt-max-taken	wt-name	wt-group	wt-kmer	wt-strength	test-name-list	test-group-list	test-kmer-list	test-strength-list	test-strength-min	test-strength-max	control-name-list	control-group-list	control-kmer-list	control-strength-list	control-strength-min	control-strength-max	gof-delta	lof-delta	variant-effect	gof-rank	lof-rank
+2336	score-pwm	Plagl1	MA1615.2	8	+	{82}	.	WT	wild-type	CGGGGCCG	0.86	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		1.0
+2127	score-pwm	ZFP57	MA1583.2	7	+	{85}	.	WT	wild-type	GGCCGCG	0.85	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		2.0
+782	score-pwm	Plagl1	MA1615.1	13	+	{79}	.	WT	wild-type	GGGCGGGGCCGCG	0.84	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		3.0
+957	score-pwm	EGR1	MA0162.4	14	-	{92}	.	WT	wild-type	CCGCGGCCCCGCCC	0.84	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		4.0
+1156	score-pwm	SP1	MA0079.5	9	+	{84}	.	WT	wild-type	GGGCCGCGG	0.84	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		5.0
+770	score-pwm	ZFP57	MA1583.1	13	+	{81}	.	WT	wild-type	GCGGGGCCGCGGA	0.83	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		6.0
+1516	score-pwm	EGR1	MA0162.5	10	-	{90}	.	WT	wild-type	GCGGCCCCGC	0.82	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		7.0
+2094	score-pwm	ZBTB14	MA1650.2	8	+	{87}	.	WT	wild-type	CCGCGGAA	0.82	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		8.0
+2223	score-pwm	ZNF549	MA1728.2	8	-	{91}	.	WT	wild-type	CGCGGCCC	0.82	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		9.0
+390	score-pwm	ZNF740	MA0753.1	10	-	{87}	.	WT	wild-type	GCCCCGCCCT	0.81	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		10.0
+832	score-pwm	SP2	MA0516.2	17	-	{91}	.	WT	wild-type	CGCGGCCCCGCCCTCTC	0.81	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		11.0
+900	score-pwm	ZBTB14	MA1650.1	12	+	{85}	.	WT	wild-type	GGCCGCGGAAAG	0.81	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		12.0
+1876	score-pwm	PRDM9	MA1723.2	20	+	{73}	.	WT	wild-type	AGGAGAGGGCGGGGCCGCGG	0.81	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		13.0
+2228	score-pwm	ZNF610	MA1713.2	10	-	{92}	.	WT	wild-type	CCGCGGCCCC	0.81	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		14.0
+592	score-pwm	PAX5	MA0014.3	12	+	{79}	.	WT	wild-type	GGGCGGGGCCGC	0.8	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		15.0
+875	score-pwm	ZNF610	MA1713.1	14	-	{93}	.	WT	wild-type	TCCGCGGCCCCGCC	0.8	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		16.0
+1038	score-pwm	KLF7	MA1959.1	9	+	{84}	.	WT	wild-type	GGGCCGCGG	0.8	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		17.0
+1060	score-pwm	PATZ1	MA1961.1	12	+	{82}	.	WT	wild-type	CGGGGCCGCGGA	0.8	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		18.0
+1385	score-pwm	ZNF770	MA2099.1	8	-	{89}	.	WT	wild-type	CGGCCCCG	0.8	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		19.0
+1540	score-pwm	PAX5	MA0014.4	8	+	{81}	.	WT	wild-type	GCGGGGCC	0.8	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		20.0
+1722	score-pwm	KLF7	MA1959.2	8	+	{85}	.	WT	wild-type	GGCCGCGG	0.8	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		21.0
+1848	score-pwm	PATZ1	MA1961.2	11	+	{83}	.	WT	wild-type	GGGGCCGCGGA	0.8	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		22.0
+2233	score-pwm	ZNF682	MA1599.2	11	-	{88}	.	WT	wild-type	GGCCCCGCCCT	0.8	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		23.0
+2366	score-pwm	Zfx	MA0146.3	10	-	{93}	.	WT	wild-type	TCCGCGGCCC	0.8	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		24.0
+355	score-pwm	Klf12	MA0742.1	15	-	{88, 89}	.	WT	wild-type	GGCCCCGCCCTCTCC	0.9	['87C-']	['GOF']	['CGCCCCGCCCTCTCC']	[0.84]	0.84	0.84	[]	[]	[]	[]	.	.		-0.06000000000000005	dec		2379.0
+1677	score-pwm	KLF15	MA1513.2	8	-	{91, 92}	.	.	.	.	.	['87C-']	['GOF']	['CCGCGCCC']	[0.93]	0.93	0.93	[]	[]	[]	[]	.	.	de novo		dnv	1.0	
+675	score-pwm	KLF15	MA1513.1	11	-	{92, 93}	.	.	.	.	.	['87C-']	['GOF']	['TCCGCGCCCCG']	[0.91]	0.91	0.91	[]	[]	[]	[]	.	.	de novo		dnv	2.0	
+1249	score-pwm	SP4	MA0685.2	9	+	{83, 84}	.	.	.	.	.	['87C-']	['GOF']	['GGGGCGCGG']	[0.89]	0.89	0.89	[]	[]	[]	[]	.	.	de novo		dnv	3.0	
+1276	score-pwm	KLF14	MA0740.2	9	+	{83, 84}	.	.	.	.	.	['87C-']	['GOF']	['GGGGCGCGG']	[0.89]	0.89	0.89	[]	[]	[]	[]	.	.	de novo		dnv	4.0	
+686	score-pwm	KLF2	MA1515.1	11	-	{93, 94}	.	.	.	.	.	['87C-']	['GOF']	['TTCCGCGCCCC']	[0.88]	0.88	0.88	[]	[]	[]	[]	.	.	de novo		dnv	5.0	
+1198	score-pwm	KLF1	MA0493.2	9	+	{83, 84}	.	.	.	.	.	['87C-']	['GOF']	['GGGGCGCGG']	[0.88]	0.88	0.88	[]	[]	[]	[]	.	.	de novo		dnv	6.0	
+1220	score-pwm	SP2	MA0516.3	9	+	{83, 84}	.	.	.	.	.	['87C-']	['GOF']	['GGGGCGCGG']	[0.88]	0.88	0.88	[]	[]	[]	[]	.	.	de novo		dnv	7.0	
+1652	score-pwm	KLF1	MA0493.3	8	+	{84, 85}	.	.	.	.	.	['87C-']	['GOF']	['GGGCGCGG']	[0.88]	0.88	0.88	[]	[]	[]	[]	.	.	de novo		dnv	8.0	
+1698	score-pwm	KLF3	MA1516.2	10	-	{93, 94}	.	.	.	.	.	['87C-']	['GOF']	['TTCCGCGCCC']	[0.88]	0.88	0.88	[]	[]	[]	[]	.	.	de novo		dnv	9.0	
+695	score-pwm	KLF3	MA1516.1	11	-	{93, 94}	.	.	.	.	.	['87C-']	['GOF']	['TTCCGCGCCCC']	[0.87]	0.87	0.87	[]	[]	[]	[]	.	.	de novo		dnv	10.0	
+107	score-pwm	Klf4	MA0039.2	10	+	{83, 84}	.	.	.	.	.	['87C-']	['GOF']	['GGGGCGCGGA']	[0.86]	0.86	0.86	[]	[]	[]	[]	.	.	de novo		dnv	11.0	
+2099	score-pwm	ZBTB14	MA1650.2	8	-	{91, 92}	.	.	.	.	.	['87C-']	['GOF']	['CCGCGCCC']	[0.86]	0.86	0.86	[]	[]	[]	[]	.	.	de novo		dnv	12.0	
+1512	score-pwm	E2F8	MA0865.3	9	-	{92, 93}	.	.	.	.	.	['87C-']	['GOF']	['TCCGCGCCC']	[0.85]	0.85	0.85	[]	[]	[]	[]	.	.	de novo		dnv	13.0	
+1717	score-pwm	KLF6	MA1517.2	9	-	{91, 92}	.	.	.	.	.	['87C-']	['GOF']	['CCGCGCCCC']	[0.85]	0.85	0.85	[]	[]	[]	[]	.	.	de novo		dnv	14.0	
+654	score-pwm	KLF10	MA1511.1	11	-	{92, 93}	.	.	.	.	.	['87C-']	['GOF']	['TCCGCGCCCCG']	[0.84]	0.84	0.84	[]	[]	[]	[]	.	.	de novo		dnv	15.0	
+666	score-pwm	KLF11	MA1512.1	11	-	{92, 93}	.	.	.	.	.	['87C-']	['GOF']	['TCCGCGCCCCG']	[0.84]	0.84	0.84	[]	[]	[]	[]	.	.	de novo		dnv	16.0	
+1487	score-pwm	E2F2	MA0864.3	13	-	{94, 95}	.	.	.	.	.	['87C-']	['GOF']	['TTTCCGCGCCCCG']	[0.84]	0.84	0.84	[]	[]	[]	[]	.	.	de novo		dnv	17.0	
+1489	score-pwm	E2F4	MA0470.3	13	-	{94, 95}	.	.	.	.	.	['87C-']	['GOF']	['TTTCCGCGCCCCG']	[0.84]	0.84	0.84	[]	[]	[]	[]	.	.	de novo		dnv	18.0	
+1767	score-pwm	MAZ	MA1522.2	8	-	{91, 92}	.	.	.	.	.	['87C-']	['GOF']	['CCGCGCCC']	[0.84]	0.84	0.84	[]	[]	[]	[]	.	.	de novo		dnv	19.0	
+1944	score-pwm	SP9	MA1564.2	10	-	{91, 92}	.	.	.	.	.	['87C-']	['GOF']	['CCGCGCCCCG']	[0.84]	0.84	0.84	[]	[]	[]	[]	.	.	de novo		dnv	20.0	
+375	score-pwm	SP3	MA0746.1	11	-	{92, 93}	.	.	.	.	.	['87C-']	['GOF']	['TCCGCGCCCCG']	[0.83]	0.83	0.83	[]	[]	[]	[]	.	.	de novo		dnv	21.0	
+718	score-pwm	MAZ	MA1522.1	11	-	{93, 94}	.	.	.	.	.	['87C-']	['GOF']	['TTCCGCGCCCC']	[0.83]	0.83	0.83	[]	[]	[]	[]	.	.	de novo		dnv	22.0	
+813	score-pwm	E2F4	MA0470.2	14	-	{94, 95}	.	.	.	.	.	['87C-']	['GOF']	['TTTCCGCGCCCCGC']	[0.83]	0.83	0.83	[]	[]	[]	[]	.	.	de novo		dnv	23.0	
+1173	score-pwm	SP1	MA0079.5	9	+	{85, 86}	.	.	.	.	.	['87C-']	['GOF']	['GGCGCGGAA']	[0.83]	0.83	0.83	[]	[]	[]	[]	.	.	de novo		dnv	24.0	
+1221	score-pwm	SP2	MA0516.3	9	+	{85, 86}	.	.	.	.	.	['87C-']	['GOF']	['GGCGCGGAA']	[0.83]	0.83	0.83	[]	[]	[]	[]	.	.	de novo		dnv	25.0	
+1277	score-pwm	KLF14	MA0740.2	9	+	{85, 86}	.	.	.	.	.	['87C-']	['GOF']	['GGCGCGGAA']	[0.83]	0.83	0.83	[]	[]	[]	[]	.	.	de novo		dnv	26.0	
+1714	score-pwm	KLF4	MA0039.5	8	-	{91, 92}	.	.	.	.	.	['87C-']	['GOF']	['CCGCGCCC']	[0.83]	0.83	0.83	[]	[]	[]	[]	.	.	de novo		dnv	27.0	
+2150	score-pwm	ZNF148	MA1653.2	10	-	{91, 92}	.	.	.	.	.	['87C-']	['GOF']	['CCGCGCCCCG']	[0.83]	0.83	0.83	[]	[]	[]	[]	.	.	de novo		dnv	28.0	
+750	score-pwm	SP9	MA1564.1	12	-	{92, 93}	.	.	.	.	.	['87C-']	['GOF']	['TCCGCGCCCCGC']	[0.82]	0.82	0.82	[]	[]	[]	[]	.	.	de novo		dnv	29.0	
+756	score-pwm	TBX3	MA1566.1	10	+	{83, 84}	.	.	.	.	.	['87C-']	['GOF']	['GGGGCGCGGA']	[0.82]	0.82	0.82	[]	[]	[]	[]	.	.	de novo		dnv	30.0	
+922	score-pwm	ZNF148	MA1653.1	12	-	{93, 94}	.	.	.	.	.	['87C-']	['GOF']	['TTCCGCGCCCCG']	[0.82]	0.82	0.82	[]	[]	[]	[]	.	.	de novo		dnv	31.0	
+942	score-pwm	CTCFL	MA1102.2	12	+	{80, 81}	.	.	.	.	.	['87C-']	['GOF']	['GGCGGGGCGCGG']	[0.82]	0.82	0.82	[]	[]	[]	[]	.	.	de novo		dnv	32.0	
+1110	score-pwm	ZFP14	MA1972.1	15	+	{74, 75}	.	.	.	.	.	['87C-']	['GOF']	['GGAGAGGGCGGGGCG']	[0.82]	0.82	0.82	[]	[]	[]	[]	.	.	de novo		dnv	33.0	
+1134	score-pwm	ZNF692	MA1986.1	10	+	{83, 84}	.	.	.	.	.	['87C-']	['GOF']	['GGGGCGCGGA']	[0.82]	0.82	0.82	[]	[]	[]	[]	.	.	de novo		dnv	34.0	
+2241	score-pwm	ZNF692	MA1986.2	8	+	{84, 85}	.	.	.	.	.	['87C-']	['GOF']	['GGGCGCGG']	[0.82]	0.82	0.82	[]	[]	[]	[]	.	.	de novo		dnv	35.0	
+2273	score-pwm	Zfp961	MA2126.1	8	+	{84, 85}	.	.	.	.	.	['87C-']	['GOF']	['GGGCGCGG']	[0.82]	0.82	0.82	[]	[]	[]	[]	.	.	de novo		dnv	36.0	
+811	score-pwm	E2F2	MA0864.2	16	-	{96, 95}	.	.	.	.	.	['87C-']	['GOF']	['CTTTCCGCGCCCCGCC']	[0.81]	0.81	0.81	[]	[]	[]	[]	.	.	de novo		dnv	37.0	
+987	score-pwm	KLF4	MA0039.4	12	-	{93, 94}	.	.	.	.	.	['87C-']	['GOF']	['TTCCGCGCCCCG']	[0.81]	0.81	0.81	[]	[]	[]	[]	.	.	de novo		dnv	38.0	
+1480	score-pwm	CTCFL	MA1102.3	8	+	{82, 83}	.	.	.	.	.	['87C-']	['GOF']	['CGGGGCGC']	[0.81]	0.81	0.81	[]	[]	[]	[]	.	.	de novo		dnv	39.0	
+1612	score-pwm	HIC2	MA0738.2	6	-	{89, 90}	.	.	.	.	.	['87C-']	['GOF']	['GCGCCC']	[0.81]	0.81	0.81	[]	[]	[]	[]	.	.	de novo		dnv	40.0	
+1934	score-pwm	SP8	MA0747.2	11	-	{91, 92}	.	.	.	.	.	['87C-']	['GOF']	['CCGCGCCCCGC']	[0.81]	0.81	0.81	[]	[]	[]	[]	.	.	de novo		dnv	41.0	
+2050	score-pwm	TFDP1	MA1122.2	8	+	{85, 86}	.	.	.	.	.	['87C-']	['GOF']	['GGCGCGGA']	[0.81]	0.81	0.81	[]	[]	[]	[]	.	.	de novo		dnv	42.0	
+165	score-pwm	ZNF263	MA0528.1	21	+	{77, 78}	.	.	.	.	.	['87C-']	['GOF']	['GAGGGCGGGGCGCGGAAAGGA']	[0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	43.0	
+258	score-pwm	Tcfl5	MA0632.1	10	+	{83, 84}	.	.	.	.	.	['87C-']	['GOF']	['GGGGCGCGGA']	[0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	44.0	
+259	score-pwm	Tcfl5	MA0632.1	10	-	{92, 93}	.	.	.	.	.	['87C-']	['GOF']	['TCCGCGCCCC']	[0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	45.0	
+354	score-pwm	KLF16	MA0741.1	11	-	{92, 93}	.	.	.	.	.	['87C-']	['GOF']	['TCCGCGCCCCG']	[0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	46.0	
+428	score-pwm	MGA	MA0801.1	8	+	{84, 85}	.	.	.	.	.	['87C-']	['GOF']	['GGGCGCGG']	[0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	47.0	
+610	score-pwm	TFDP1	MA1122.1	11	+	{84, 85}	.	.	.	.	.	['87C-']	['GOF']	['GGGCGCGGAAA']	[0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	48.0	
+760	score-pwm	TBX6	MA1567.1	10	+	{83, 84}	.	.	.	.	.	['87C-']	['GOF']	['GGGGCGCGGA']	[0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	49.0	
+878	score-pwm	ZNF610	MA1713.1	14	-	{90, 91}	.	.	.	.	.	['87C-']	['GOF']	['CGCGCCCCGCCCTC']	[0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	50.0	
+906	score-pwm	ZBTB14	MA1650.1	12	-	{93, 94}	.	.	.	.	.	['87C-']	['GOF']	['TTCCGCGCCCCG']	[0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	51.0	
+954	score-pwm	E2F6	MA0471.2	13	+	{84, 85}	.	.	.	.	.	['87C-']	['GOF']	['GGGCGCGGAAAGG']	[0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	52.0	
+1111	score-pwm	ZFP14	MA1972.1	15	+	{76, 77}	.	.	.	.	.	['87C-']	['GOF']	['AGAGGGCGGGGCGCG']	[0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	53.0	
+1347	score-pwm	KLF10	MA1511.2	9	+	{85, 86}	.	.	.	.	.	['87C-']	['GOF']	['GGCGCGGAA']	[0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	54.0	
+1501	score-pwm	E2F6	MA0471.3	8	+	{85, 86}	.	.	.	.	.	['87C-']	['GOF']	['GGCGCGGA']	[0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	55.0	
+1886	score-pwm	RARA::RXRG	MA1149.2	17	+	{83, 84}	.	.	.	.	.	['87C-']	['GOF']	['GGGGCGCGGAAAGGAAG']	[0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	56.0	
+2232	score-pwm	ZNF610	MA1713.2	10	-	{89, 90}	.	.	.	.	.	['87C-']	['GOF']	['GCGCCCCGCC']	[0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	57.0	
+1413	score-pwm	ZBED4	MA2328.1	10	-	{90, 91}	.	WT	wild-type	GCGGCCCCGC	0.89	['87C-']	['GOF']	['CGCGCCCCGC']	[0.95]	0.95	0.95	[]	[]	[]	[]	.	.	0.05999999999999994		inc	2370.0	
+1282	score-pwm	KLF12	MA0742.2	9	+	{83, 84}	.	WT	wild-type	GGGCCGCGG	0.85	['87C-']	['GOF']	['GGGGCGCGG']	[0.96]	0.96	0.96	[]	[]	[]	[]	.	.	0.10999999999999999		inc	2374.0	
+1326	score-pwm	KLF10	MA1511.2	9	+	{83, 84}	.	WT	wild-type	GGGCCGCGG	0.85	['87C-']	['GOF']	['GGGGCGCGG']	[0.96]	0.96	0.96	[]	[]	[]	[]	.	.	0.10999999999999999		inc	2375.0	
+1155	score-pwm	SP1	MA0079.5	9	+	{83, 84}	.	WT	wild-type	GGGGCCGCG	0.84	['87C-']	['GOF']	['GGGGCGCGG']	[0.96]	0.96	0.96	[]	[]	[]	[]	.	.	0.12		inc	2376.0	
+1059	score-pwm	PATZ1	MA1961.1	12	+	{81, 82}	.	WT	wild-type	GCGGGGCCGCGG	0.83	['87C-']	['GOF']	['GCGGGGCGCGGA']	[0.9]	0.9	0.9	[]	[]	[]	[]	.	.	0.07000000000000006		inc	2372.0	
+1847	score-pwm	PATZ1	MA1961.2	11	+	{82, 83}	.	WT	wild-type	CGGGGCCGCGG	0.83	['87C-']	['GOF']	['CGGGGCGCGGA']	[0.9]	0.9	0.9	[]	[]	[]	[]	.	.	0.07000000000000006		inc	2373.0	
+1037	score-pwm	KLF7	MA1959.1	9	+	{83, 84}	.	WT	wild-type	GGGGCCGCG	0.82	['87C-']	['GOF']	['GGGGCGCGG']	[0.94]	0.94	0.94	[]	[]	[]	[]	.	.	0.12		inc	2377.0	
+1721	score-pwm	KLF7	MA1959.2	8	+	{84, 85}	.	WT	wild-type	GGGCCGCG	0.81	['87C-']	['GOF']	['GGGCGCGG']	[0.93]	0.93	0.93	[]	[]	[]	[]	.	.	0.12		inc	2378.0	
+1682	score-pwm	KLF2	MA1515.2	8	-	{91, 92}	.	WT	wild-type	CCGCGGCC	0.81	['87C-']	['GOF']	['CCGCGCCC']	[0.95]	0.95	0.95	[]	[]	[]	[]	.	.	0.1399999999999999		inc	2379.0	
+1657	score-pwm	KLF11	MA1512.2	10	-	{91, 92}	.	WT	wild-type	CCGCGGCCCC	0.8	['87C-']	['GOF']	['CCGCGCCCCG']	[0.86]	0.86	0.86	[]	[]	[]	[]	.	.	0.05999999999999994		inc	2371.0	

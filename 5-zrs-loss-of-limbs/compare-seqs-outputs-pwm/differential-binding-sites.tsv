@@ -1,0 +1,175 @@
+site-id	tf-strength-type	tf-name	tf-definition	kmer-length	strand	start-set	wt-max-taken	wt-name	wt-group	wt-kmer	wt-strength	test-name-list	test-group-list	test-kmer-list	test-strength-list	test-strength-min	test-strength-max	control-name-list	control-group-list	control-kmer-list	control-strength-list	control-strength-min	control-strength-max	gof-delta	lof-delta	variant-effect	gof-rank	lof-rank
+0	score-pwm	Prrx2	MA0075.1	5	+	{27}	.	Human	human	AATTA	1.0	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['AATTA']	[1.0]	1.0	1.0		ablation	abl		1.0
+136	score-pwm	BCL11A	MA2324.1	7	+	{21}	.	Human	human	CTGACCA	1.0	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['CTGACCA']	[1.0]	1.0	1.0		ablation	abl		2.0
+199	score-pwm	LHX2	MA0700.3	6	+	{26}	.	Human	human	CAATTA	1.0	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['CAATTA']	[1.0]	1.0	1.0		ablation	abl		3.0
+21	score-pwm	Prrx2	MA0075.2	8	+	{25}	.	Human	human	CCAATTAT	0.98	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['CCAATTAT']	[0.98]	0.98	0.98		ablation	abl		4.0
+173	score-pwm	HOXB3	MA0903.2	6	+	{26}	.	Human	human	CAATTA	0.98	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['CAATTA']	[0.98]	0.98	0.98		ablation	abl		5.0
+3	score-pwm	ETS1	MA0098.1	6	+	{17}	.	Human	human	CATCCT	0.97	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['CATCCT']	[0.97]	0.97	0.97		ablation	abl		6.0
+42	score-pwm	Shox2	MA0720.1	8	+	{25}	.	Human	human	CCAATTAT	0.97	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['CCAATTAT']	[0.97]	0.97	0.97		ablation	abl		7.0
+115	score-pwm	LHX2	MA0700.2	11	+	{23}	.	Human	human	GACCAATTATC	0.97	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['GACCAATTATC']	[0.97]	0.97	0.97		ablation	abl		8.0
+37	score-pwm	PRRX1	MA0716.1	8	+	{25}	.	Human	human	CCAATTAT	0.96	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['CCAATTAT']	[0.96]	0.96	0.96		ablation	abl		9.0
+125	score-pwm	MSX1	MA0666.2	8	+	{25}	.	Human	human	CCAATTAT	0.96	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['CCAATTAT']	[0.96]	0.96	0.96		ablation	abl		10.0
+170	score-pwm	HOXB2	MA0902.3	6	+	{26}	.	Human	human	CAATTA	0.96	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['CAATTA']	[0.96]	0.96	0.96		ablation	abl		11.0
+202	score-pwm	LHX9	MA0701.3	7	+	{25}	.	Human	human	CCAATTA	0.96	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['CCAATTA']	[0.96]	0.96	0.96		ablation	abl		12.0
+11	score-pwm	ALX3	MA0634.1	10	+	{24}	.	Human	human	ACCAATTATC	0.93	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['ACCAATTATC']	[0.93]	0.93	0.93		ablation	abl		13.0
+67	score-pwm	HOXB2	MA0902.1	10	+	{24}	.	Human	human	ACCAATTATC	0.93	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['ACCAATTATC']	[0.93]	0.93	0.93		ablation	abl		14.0
+71	score-pwm	HOXB3	MA0903.1	10	+	{24}	.	Human	human	ACCAATTATC	0.93	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['ACCAATTATC']	[0.93]	0.93	0.93		ablation	abl		15.0
+31	score-pwm	LHX9	MA0701.1	8	+	{25}	.	Human	human	CCAATTAT	0.92	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['CCAATTAT']	[0.92]	0.92	0.92		ablation	abl		16.0
+32	score-pwm	LMX1B	MA0703.1	8	+	{25}	.	Human	human	CCAATTAT	0.91	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['CCAATTAT']	[0.91]	0.91	0.91		ablation	abl		17.0
+81	score-pwm	HOXA7	MA1498.1	8	+	{25}	.	Human	human	CCAATTAT	0.9	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['CCAATTAT']	[0.9]	0.9	0.9		ablation	abl		18.0
+103	score-pwm	LHX9	MA0701.2	8	+	{25}	.	Human	human	CCAATTAT	0.9	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['CCAATTAT']	[0.9]	0.9	0.9		ablation	abl		19.0
+4	score-pwm	ETS1	MA0098.1	6	+	{30}	.	Human	human	TATCCA	0.89	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['TATCCA']	[0.89]	0.89	0.89		ablation	abl		20.0
+52	score-pwm	ETV5	MA0765.1	10	-	{24}	.	Human	human	TCAGGATGTT	0.88	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['TCAGGATGTT']	[0.88]	0.88	0.88		ablation	abl		21.0
+51	score-pwm	ETV4	MA0764.1	10	-	{24}	.	Human	human	TCAGGATGTT	0.87	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['TCAGGATGTT']	[0.87]	0.87	0.87		ablation	abl		22.0
+177	score-pwm	HOXB4	MA1499.2	6	+	{26}	.	Human	human	CAATTA	0.87	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['CAATTA']	[0.87]	0.87	0.87		ablation	abl		23.0
+183	score-pwm	HOXB6	MA1500.2	7	-	{31}	.	Human	human	TAATTGG	0.87	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['TAATTGG']	[0.87]	0.87	0.87		ablation	abl		24.0
+153	score-pwm	ETS1	MA0098.4	9	-	{24}	.	Human	human	TCAGGATGT	0.86	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['TCAGGATGT']	[0.86]	0.86	0.86		ablation	abl		25.0
+222	score-pwm	RFX7	MA1554.2	8	-	{11, 12, 13, 14, 15, 16, 17, 18}	.	Human	human	TGTTGCTT	0.85	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['TGTTGCTG']	[0.91]	0.91	0.91		ablation	abl		26.0
+49	score-pwm	ELK3	MA0759.1	10	-	{24}	.	Human	human	TCAGGATGTT	0.85	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['TCAGGATGTT']	[0.85]	0.85	0.85		ablation	abl		27.0
+80	score-pwm	ETS2	MA1484.1	10	-	{25}	.	Human	human	GTCAGGATGT	0.85	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['GTCAGGATGT']	[0.85]	0.85	0.85		ablation	abl		28.0
+152	score-pwm	ELF2	MA1483.3	10	-	{25}	.	Human	human	GTCAGGATGT	0.85	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['GTCAGGATGT']	[0.85]	0.85	0.85		ablation	abl		29.0
+188	score-pwm	HOXC4	MA1504.2	6	+	{26}	.	Human	human	CAATTA	0.85	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['CAATTA']	[0.85]	0.85	0.85		ablation	abl		30.0
+211	score-pwm	NFYB	MA0502.3	9	-	{31}	.	Human	human	TAATTGGTC	0.85	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['TAATTGGTC']	[0.85]	0.85	0.85		ablation	abl		31.0
+234	score-pwm	Alx1	MA0854.2	8	+	{25}	.	Human	human	CCAATTAT	0.85	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['CCAATTAT']	[0.85]	0.85	0.85		ablation	abl		32.0
+235	score-pwm	Alx1	MA0854.2	8	-	{32}	.	Human	human	ATAATTGG	0.85	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['ATAATTGG']	[0.85]	0.85	0.85		ablation	abl		33.0
+240	score-pwm	Nr1H2	MA1996.2	6	-	{27}	.	Human	human	TGGTCA	0.85	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['TGGTCA']	[0.85]	0.85	0.85		ablation	abl		34.0
+48	score-pwm	CUX1	MA0754.1	10	+	{22}	.	Human	human	TGACCAATTA	0.84	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['TGACCAATTA']	[0.84]	0.84	0.84		ablation	abl		35.0
+110	score-pwm	NFYC	MA1644.1	11	+	{23}	.	Human	human	GACCAATTATC	0.84	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['GACCAATTATC']	[0.84]	0.84	0.84		ablation	abl		36.0
+154	score-pwm	ETS2	MA1484.2	9	-	{24}	.	Human	human	TCAGGATGT	0.84	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['TCAGGATGT']	[0.84]	0.84	0.84		ablation	abl		37.0
+161	score-pwm	HOXA7	MA1498.3	6	+	{0, 1, 2, 3, 4, 5, 6, 7}	.	Human	human	ACATAA	0.84	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['ACATAA']	[0.84]	0.84	0.84		ablation	abl		38.0
+179	score-pwm	HOXB5	MA0904.3	6	+	{26}	.	Human	human	CAATTA	0.84	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['CAATTA']	[0.84]	0.84	0.84		ablation	abl		39.0
+180	score-pwm	HOXB5	MA0904.3	6	-	{31}	.	Human	human	TAATTG	0.84	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['TAATTG']	[0.84]	0.84	0.84		ablation	abl		40.0
+194	score-pwm	HOXD4	MA1507.2	6	+	{26}	.	Human	human	CAATTA	0.84	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['CAATTA']	[0.84]	0.84	0.84		ablation	abl		41.0
+223	score-pwm	SMAD2	MA1964.2	6	+	{20}	.	Human	human	CCTGAC	0.84	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['CCTGAC']	[0.84]	0.84	0.84		ablation	abl		42.0
+50	score-pwm	ETS1	MA0098.3	10	-	{24}	.	Human	human	TCAGGATGTT	0.83	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['TCAGGATGTT']	[0.83]	0.83	0.83		ablation	abl		43.0
+224	score-pwm	SMAD2	MA1964.2	6	+	{33}	.	Human	human	CCAAAC	0.83	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['CCAAAC']	[0.83]	0.83	0.83		ablation	abl		44.0
+95	score-pwm	RFX7	MA1554.1	9	-	{11, 12, 13, 14, 15, 16, 17, 18}	.	Human	human	TGTTGCTTA	0.82	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['TGTTGCTGT']	[0.92]	0.92	0.92		ablation	abl		45.0
+9	score-pwm	NFATC3	MA0625.1	10	+	{28}	.	Human	human	ATTATCCAAA	0.82	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['ATTATCCAAA']	[0.82]	0.82	0.82		ablation	abl		46.0
+62	score-pwm	CDX1	MA0878.1	9	+	{25}	.	Human	human	CCAATTATC	0.82	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['CCAATTATC']	[0.82]	0.82	0.82		ablation	abl		47.0
+117	score-pwm	NFYB	MA0502.2	12	-	{32}	.	Human	human	ATAATTGGTCAG	0.82	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['ATAATTGGTCAG']	[0.82]	0.82	0.82		ablation	abl		48.0
+127	score-pwm	CUX1	MA0754.2	10	+	{22}	.	Human	human	TGACCAATTA	0.82	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['TGACCAATTA']	[0.82]	0.82	0.82		ablation	abl		49.0
+130	score-pwm	ELF2	MA1483.2	12	-	{26}	.	Human	human	GGTCAGGATGTT	0.82	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['GGTCAGGATGTT']	[0.82]	0.82	0.82		ablation	abl		50.0
+151	score-pwm	CUX1	MA0754.3	9	+	{22}	.	Human	human	TGACCAATT	0.82	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['TGACCAATT']	[0.82]	0.82	0.82		ablation	abl		51.0
+196	score-pwm	HOXD8	MA0910.3	7	+	{25}	.	Human	human	CCAATTA	0.82	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['CCAATTA']	[0.82]	0.82	0.82		ablation	abl		52.0
+239	score-pwm	Hoxd13	MA0909.4	7	+	{26}	.	Human	human	CAATTAT	0.82	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['CAATTAT']	[0.82]	0.82	0.82		ablation	abl		53.0
+150	score-pwm	CUX1	MA0754.3	9	+	{3, 4, 5, 6, 7, 8, 9, 10}	.	Human	human	TAAGCAACA	0.81	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		54.0
+156	score-pwm	FOXK2	MA1103.3	7	+	{2, 3, 4, 5, 6, 7, 8, 9}	.	Human	human	ATAAGCA	0.81	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		55.0
+26	score-pwm	TEAD1	MA0090.2	10	+	{15}	.	Human	human	AACATCCTGA	0.81	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['AACATCCTGA']	[0.81]	0.81	0.81		ablation	abl		56.0
+97	score-pwm	HOXB2	MA0902.2	8	+	{25}	.	Human	human	CCAATTAT	0.81	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['CCAATTAT']	[0.81]	0.81	0.81		ablation	abl		57.0
+114	score-pwm	ETV5	MA0765.2	11	+	{14}	.	Human	human	CAACATCCTGA	0.81	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['CAACATCCTGA']	[0.81]	0.81	0.81		ablation	abl		58.0
+129	score-pwm	Hoxd13	MA0909.3	10	+	{24}	.	Human	human	ACCAATTATC	0.81	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['ACCAATTATC']	[0.81]	0.81	0.81		ablation	abl		59.0
+186	score-pwm	HOXB8	MA1502.2	7	+	{25}	.	Human	human	CCAATTA	0.81	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['CCAATTA']	[0.81]	0.81	0.81		ablation	abl		60.0
+214	score-pwm	POU2F1	MA0785.2	9	+	{30}	.	Human	human	TATCCAAAC	0.81	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['TATCCAAAC']	[0.81]	0.81	0.81		ablation	abl		61.0
+57	score-pwm	CEBPG	MA0838.1	10	+	{1, 2, 3, 4, 5, 6, 7, 8}	.	Human	human	CATAAGCAAC	0.8	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		62.0
+126	score-pwm	CUX1	MA0754.2	10	+	{3, 4, 5, 6, 7, 8, 9, 10}	.	Human	human	TAAGCAACAT	0.8	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		63.0
+236	score-pwm	Foxo3	MA0157.4	7	+	{2, 3, 4, 5, 6, 7, 8, 9}	.	Human	human	ATAAGCA	0.8	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		64.0
+55	score-pwm	POU2F1	MA0785.1	12	+	{28}	.	Human	human	ATTATCCAAACC	0.8	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['ATTATCCAAACC']	[0.8]	0.8	0.8		ablation	abl		65.0
+85	score-pwm	HOXB6	MA1500.1	8	-	{32}	.	Human	human	ATAATTGG	0.8	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['ATAATTGG']	[0.8]	0.8	0.8		ablation	abl		66.0
+113	score-pwm	ETV4	MA0764.2	10	-	{24}	.	Human	human	TCAGGATGTT	0.8	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['TCAGGATGTT']	[0.8]	0.8	0.8		ablation	abl		67.0
+119	score-pwm	Nr1H2	MA1996.1	11	-	{30}	.	Human	human	AATTGGTCAGG	0.8	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['AATTGGTCAGG']	[0.8]	0.8	0.8		ablation	abl		68.0
+155	score-pwm	ETV4	MA0764.4	9	-	{24}	.	Human	human	TCAGGATGT	0.8	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['TCAGGATGT']	[0.8]	0.8	0.8		ablation	abl		69.0
+213	score-pwm	NR2F2	MA1111.2	7	-	{28}	.	Human	human	TTGGTCA	0.8	[]	[]	[]	[]	.	.	['Mouse']	['mouse']	['TTGGTCA']	[0.8]	0.8	0.8		ablation	abl		70.0
+28	score-pwm	LHX2	MA0700.1	10	+	{19, 20, 21, 22, 23, 24}	.	Human	human	ACCAATTATC	0.94	['Python']	['serpintized']	['CCCAATTGTG']	[0.87]	0.87	0.87	['Mouse']	['mouse']	['ACCAATTATC']	[0.94]	0.94	0.94		-0.06999999999999995	dec		245.0
+212	score-pwm	NFYC	MA1644.2	7	+	{20, 21, 22, 23, 24, 25}	.	Human	human	CCAATTA	0.89	['Python', 'Python', 'Python', 'Python', 'Python', 'Python']	['serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized']	['CCAATTG', 'CCAATTG', 'CCAATTG', 'CCAATTG', 'CCAATTG', 'CCAATTG']	[0.8, 0.8, 0.8, 0.8, 0.8, 0.8]	0.8	0.8	['Mouse']	['mouse']	['CCAATTA']	[0.89]	0.89	0.89		-0.08999999999999997	dec		246.0
+16	score-pwm	MSX1	MA0666.1	8	+	{20, 21, 22, 23, 24, 25}	.	Human	human	CCAATTAT	0.97	['Python', 'Python', 'Python', 'Python', 'Python', 'Python']	['serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized']	['CCAATTGT', 'CCAATTGT', 'CCAATTGT', 'CCAATTGT', 'CCAATTGT', 'CCAATTGT']	[0.85, 0.85, 0.85, 0.85, 0.85, 0.85]	0.85	0.85	['Mouse']	['mouse']	['CCAATTAT']	[0.97]	0.97	0.97		-0.12	dec		247.0
+221	score-pwm	PRRX2	MA0075.4	7	+	{20, 21, 22, 23, 24, 25}	.	Human	human	CCAATTA	0.96	['Python', 'Python', 'Python', 'Python', 'Python', 'Python']	['serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized']	['CCAATTG', 'CCAATTG', 'CCAATTG', 'CCAATTG', 'CCAATTG', 'CCAATTG']	[0.84, 0.84, 0.84, 0.84, 0.84, 0.84]	0.84	0.84	['Mouse']	['mouse']	['CCAATTA']	[0.96]	0.96	0.96		-0.12	dec		248.0
+104	score-pwm	PRRX2	MA0075.3	8	+	{20, 21, 22, 23, 24, 25}	.	Human	human	CCAATTAT	0.94	['Python', 'Python', 'Python', 'Python', 'Python', 'Python']	['serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized']	['CCAATTGT', 'CCAATTGT', 'CCAATTGT', 'CCAATTGT', 'CCAATTGT', 'CCAATTGT']	[0.81, 0.81, 0.81, 0.81, 0.81, 0.81]	0.81	0.81	['Mouse']	['mouse']	['CCAATTAT']	[0.94]	0.94	0.94		-0.1299999999999999	dec		249.0
+131	score-pwm	HOXA7	MA1498.2	8	+	{20, 21, 22, 23, 24, 25}	.	Human	human	CCAATTAT	0.95	['Python', 'Python', 'Python', 'Python', 'Python', 'Python']	['serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized']	['CCAATTGT', 'CCAATTGT', 'CCAATTGT', 'CCAATTGT', 'CCAATTGT', 'CCAATTGT']	[0.81, 0.81, 0.81, 0.81, 0.81, 0.81]	0.81	0.81	['Mouse']	['mouse']	['CCAATTAT']	[0.95]	0.95	0.95		-0.1399999999999999	dec		250.0
+162	score-pwm	HOXA7	MA1498.3	6	+	{26}	.	Human	human	CAATTA	1.0	['Python']	['serpintized']	['CAATTG']	[0.85]	0.85	0.85	['Mouse']	['mouse']	['CAATTA']	[1.0]	1.0	1.0		-0.15000000000000002	dec		251.0
+205	score-pwm	MSX1	MA0666.3	6	+	{26}	.	Human	human	CAATTA	1.0	['Python']	['serpintized']	['CAATTG']	[0.81]	0.81	0.81	['Mouse']	['mouse']	['CAATTA']	[1.0]	1.0	1.0		-0.18999999999999995	dec		252.0
+215	score-pwm	PRRX1	MA0716.2	6	+	{26}	.	Human	human	CAATTA	1.0	['Python']	['serpintized']	['CAATTG']	[0.81]	0.81	0.81	['Mouse']	['mouse']	['CAATTA']	[1.0]	1.0	1.0		-0.18999999999999995	dec		253.0
+242	score-pwm	Shox2	MA0720.2	6	+	{26}	.	Human	human	CAATTA	1.0	['Python']	['serpintized']	['CAATTG']	[0.81]	0.81	0.81	['Mouse']	['mouse']	['CAATTA']	[1.0]	1.0	1.0		-0.18999999999999995	dec		254.0
+139	score-pwm	ALX3	MA0634.2	6	+	{26}	.	Human	human	CAATTA	0.99	['Python']	['serpintized']	['CAATTG']	[0.8]	0.8	0.8	['Mouse']	['mouse']	['CAATTA']	[0.99]	0.99	0.99		-0.18999999999999995	dec		255.0
+1	score-pwm	Prrx2	MA0075.1	5	-	{12}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['AATTA', 'AATTA']	[1.0, 1.0]	1.0	1.0	[]	[]	[]	[]	.	.	de novo		dnv	1.0	
+76	score-pwm	Hoxa11	MA0911.1	12	-	{20, 21, 22, 23, 24, 25}	.	.	.	.	.	['Boa']	['serpintized']	['GGTTGTAAAATT']	[0.94]	0.94	0.94	[]	[]	[]	[]	.	.	de novo		dnv	2.0	
+220	score-pwm	PRRX1	MA0716.2	6	-	{13}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['AAATTA', 'AAATTA']	[0.94, 0.94]	0.94	0.94	[]	[]	[]	[]	.	.	de novo		dnv	3.0	
+238	score-pwm	Hoxa11	MA0911.2	9	-	{19, 20, 21, 22, 23, 24}	.	.	.	.	.	['Boa', 'Boa', 'Boa', 'Boa', 'Boa', 'Boa']	['serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized']	['GTTGTAAAA', 'GTTGTAAAA', 'GTTGTAAAA', 'GTTGTAAAA', 'GTTGTAAAA', 'GTTGTAAAA']	[0.94, 0.94, 0.94, 0.94, 0.94, 0.94]	0.94	0.94	[]	[]	[]	[]	.	.	de novo		dnv	4.0	
+144	score-pwm	ALX3	MA0634.2	6	-	{13}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['AAATTA', 'AAATTA']	[0.93, 0.93]	0.93	0.93	[]	[]	[]	[]	.	.	de novo		dnv	5.0	
+166	score-pwm	HOXA7	MA1498.3	6	-	{13}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['AAATTA', 'AAATTA']	[0.93, 0.93]	0.93	0.93	[]	[]	[]	[]	.	.	de novo		dnv	6.0	
+176	score-pwm	HOXB3	MA0903.2	6	-	{13}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['AAATTA', 'AAATTA']	[0.93, 0.93]	0.93	0.93	[]	[]	[]	[]	.	.	de novo		dnv	7.0	
+247	score-pwm	Shox2	MA0720.2	6	-	{13}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['AAATTA', 'AAATTA']	[0.93, 0.93]	0.93	0.93	[]	[]	[]	[]	.	.	de novo		dnv	8.0	
+5	score-pwm	ETS1	MA0098.1	6	-	{6, 7}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['CTTCCA', 'CTTCCA']	[0.92, 0.92]	0.92	0.92	[]	[]	[]	[]	.	.	de novo		dnv	9.0	
+143	score-pwm	ALX3	MA0634.2	6	+	{8}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['TAATTT', 'TAATTT']	[0.91, 0.91]	0.91	0.91	[]	[]	[]	[]	.	.	de novo		dnv	10.0	
+246	score-pwm	Shox2	MA0720.2	6	+	{8}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['TAATTT', 'TAATTT']	[0.91, 0.91]	0.91	0.91	[]	[]	[]	[]	.	.	de novo		dnv	11.0	
+41	score-pwm	PRRX1	MA0716.1	8	-	{14}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['AAAATTAC', 'AAAATTAC']	[0.89, 0.89]	0.89	0.89	[]	[]	[]	[]	.	.	de novo		dnv	12.0	
+61	score-pwm	CEBPG	MA0838.1	10	-	{37}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['TTTGCACAAT', 'TTTGCACAAC']	[0.89, 0.89]	0.89	0.89	[]	[]	[]	[]	.	.	de novo		dnv	13.0	
+134	score-pwm	HOXA7	MA1498.2	8	-	{14}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['AAAATTAC', 'AAAATTAC']	[0.89, 0.89]	0.89	0.89	[]	[]	[]	[]	.	.	de novo		dnv	14.0	
+219	score-pwm	PRRX1	MA0716.2	6	+	{8}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['TAATTT', 'TAATTT']	[0.89, 0.89]	0.89	0.89	[]	[]	[]	[]	.	.	de novo		dnv	15.0	
+25	score-pwm	Prrx2	MA0075.2	8	-	{14}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['AAAATTAC', 'AAAATTAC']	[0.88, 0.88]	0.88	0.88	[]	[]	[]	[]	.	.	de novo		dnv	16.0	
+46	score-pwm	Shox2	MA0720.1	8	-	{14}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['AAAATTAC', 'AAAATTAC']	[0.88, 0.88]	0.88	0.88	[]	[]	[]	[]	.	.	de novo		dnv	17.0	
+65	score-pwm	CDX1	MA0878.1	9	-	{19, 20, 21, 22, 23, 24}	.	.	.	.	.	['Boa', 'Boa', 'Boa', 'Boa', 'Boa', 'Boa']	['serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized']	['GTTGTAAAA', 'GTTGTAAAA', 'GTTGTAAAA', 'GTTGTAAAA', 'GTTGTAAAA', 'GTTGTAAAA']	[0.88, 0.88, 0.88, 0.88, 0.88, 0.88]	0.88	0.88	[]	[]	[]	[]	.	.	de novo		dnv	18.0	
+165	score-pwm	HOXA7	MA1498.3	6	+	{8}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['TAATTT', 'TAATTT']	[0.88, 0.88]	0.88	0.88	[]	[]	[]	[]	.	.	de novo		dnv	19.0	
+169	score-pwm	HOXA9	MA0594.3	7	-	{19, 20, 21, 22, 23, 24}	.	.	.	.	.	['Boa', 'Boa', 'Boa', 'Boa', 'Boa', 'Boa']	['serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized']	['GTTGTAA', 'GTTGTAA', 'GTTGTAA', 'GTTGTAA', 'GTTGTAA', 'GTTGTAA']	[0.88, 0.88, 0.88, 0.88, 0.88, 0.88]	0.88	0.88	[]	[]	[]	[]	.	.	de novo		dnv	20.0	
+36	score-pwm	LMX1B	MA0703.1	8	-	{14}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['AAAATTAC', 'AAAATTAC']	[0.87, 0.87]	0.87	0.87	[]	[]	[]	[]	.	.	de novo		dnv	21.0	
+60	score-pwm	CEBPG	MA0838.1	10	+	{28}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['ATTGTGCAAA', 'GTTGTGCAAA']	[0.87, 0.85]	0.85	0.87	[]	[]	[]	[]	.	.	de novo		dnv	22.0	
+96	score-pwm	HOXA9	MA0594.2	10	-	{19, 20, 21, 22, 23, 24}	.	.	.	.	.	['Boa', 'Boa', 'Boa', 'Boa', 'Boa', 'Boa']	['serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized']	['GTTGTAAAAT', 'GTTGTAAAAT', 'GTTGTAAAAT', 'GTTGTAAAAT', 'GTTGTAAAAT', 'GTTGTAAAAT']	[0.87, 0.87, 0.87, 0.87, 0.87, 0.87]	0.87	0.87	[]	[]	[]	[]	.	.	de novo		dnv	23.0	
+232	score-pwm	Hmga1	MA2124.1	8	+	{10}	.	.	.	.	.	['Python']	['serpintized']	['ATTTTGAA']	[0.87]	0.87	0.87	[]	[]	[]	[]	.	.	de novo		dnv	24.0	
+45	score-pwm	Shox2	MA0720.1	8	+	{7}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['GTAATTTT', 'GTAATTTT']	[0.86, 0.86]	0.86	0.86	[]	[]	[]	[]	.	.	de novo		dnv	25.0	
+66	score-pwm	HOXA10	MA0899.1	11	-	{20, 21, 22, 23, 24, 25}	.	.	.	.	.	['Boa']	['serpintized']	['GGTTGTAAAAT']	[0.86]	0.86	0.86	[]	[]	[]	[]	.	.	de novo		dnv	26.0	
+70	score-pwm	HOXB2	MA0902.1	10	-	{15}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['CAAAATTACT', 'TAAAATTACT']	[0.86, 0.86]	0.86	0.86	[]	[]	[]	[]	.	.	de novo		dnv	27.0	
+160	score-pwm	HOXA10	MA0899.2	9	-	{19, 20, 21, 22, 23, 24}	.	.	.	.	.	['Boa', 'Boa', 'Boa', 'Boa', 'Boa', 'Boa']	['serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized']	['GTTGTAAAA', 'GTTGTAAAA', 'GTTGTAAAA', 'GTTGTAAAA', 'GTTGTAAAA', 'GTTGTAAAA']	[0.86, 0.86, 0.86, 0.86, 0.86, 0.86]	0.86	0.86	[]	[]	[]	[]	.	.	de novo		dnv	28.0	
+175	score-pwm	HOXB3	MA0903.2	6	+	{8}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['TAATTT', 'TAATTT']	[0.86, 0.86]	0.86	0.86	[]	[]	[]	[]	.	.	de novo		dnv	29.0	
+230	score-pwm	TWIST1	MA1123.3	8	+	{20, 21, 22, 23, 24, 25}	.	.	.	.	.	['Boa', 'Boa', 'Boa', 'Boa', 'Boa', 'Boa']	['serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized']	['CCAGTTGT', 'CCAGTTGT', 'CCAGTTGT', 'CCAGTTGT', 'CCAGTTGT', 'CCAGTTGT']	[0.86, 0.86, 0.86, 0.86, 0.86, 0.86]	0.86	0.86	[]	[]	[]	[]	.	.	de novo		dnv	30.0	
+233	score-pwm	Hmga1	MA2124.1	8	+	{9}	.	.	.	.	.	['Boa']	['serpintized']	['AATTTTAC']	[0.86]	0.86	0.86	[]	[]	[]	[]	.	.	de novo		dnv	31.0	
+241	score-pwm	Prdm4	MA1647.3	11	+	{16, 11, 12, 13, 14, 15}	.	.	.	.	.	['Python']	['serpintized']	['TTTTGAAACCC']	[0.86]	0.86	0.86	[]	[]	[]	[]	.	.	de novo		dnv	32.0	
+253	score-pwm	LIN54	MA0619.2	7	+	{12}	.	.	.	.	.	['Python']	['serpintized']	['TTTGAAA']	[0.86]	0.86	0.86	[]	[]	[]	[]	.	.	de novo		dnv	33.0	
+10	score-pwm	NFATC3	MA0625.1	10	+	{10}	.	.	.	.	.	['Boa']	['serpintized']	['ATTTTACAAC']	[0.85]	0.85	0.85	[]	[]	[]	[]	.	.	de novo		dnv	34.0	
+15	score-pwm	ALX3	MA0634.1	10	-	{15}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['CAAAATTACT', 'TAAAATTACT']	[0.83, 0.85]	0.83	0.85	[]	[]	[]	[]	.	.	de novo		dnv	35.0	
+35	score-pwm	LMX1B	MA0703.1	8	+	{7}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['GTAATTTT', 'GTAATTTT']	[0.85, 0.85]	0.85	0.85	[]	[]	[]	[]	.	.	de novo		dnv	36.0	
+74	score-pwm	HOXB3	MA0903.1	10	-	{15}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['CAAAATTACT', 'TAAAATTACT']	[0.84, 0.85]	0.84	0.85	[]	[]	[]	[]	.	.	de novo		dnv	37.0	
+106	score-pwm	SOX4	MA0867.2	10	-	{34}	.	.	.	.	.	['Python']	['serpintized']	['GCACAATTGG']	[0.85]	0.85	0.85	[]	[]	[]	[]	.	.	de novo		dnv	38.0	
+133	score-pwm	HOXA7	MA1498.2	8	+	{7}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['GTAATTTT', 'GTAATTTT']	[0.85, 0.85]	0.85	0.85	[]	[]	[]	[]	.	.	de novo		dnv	39.0	
+201	score-pwm	LHX2	MA0700.3	6	-	{13}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['AAATTA', 'AAATTA']	[0.85, 0.85]	0.85	0.85	[]	[]	[]	[]	.	.	de novo		dnv	40.0	
+249	score-pwm	Tcf12	MA0521.3	6	+	{26}	.	.	.	.	.	['Boa']	['serpintized']	['CAGTTG']	[0.85]	0.85	0.85	[]	[]	[]	[]	.	.	de novo		dnv	41.0	
+250	score-pwm	Tcf12	MA0521.3	6	-	{31}	.	.	.	.	.	['Boa']	['serpintized']	['CAACTG']	[0.85]	0.85	0.85	[]	[]	[]	[]	.	.	de novo		dnv	42.0	
+24	score-pwm	Prrx2	MA0075.2	8	+	{7}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['GTAATTTT', 'GTAATTTT']	[0.84, 0.84]	0.84	0.84	[]	[]	[]	[]	.	.	de novo		dnv	43.0	
+40	score-pwm	PRRX1	MA0716.1	8	+	{7}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['GTAATTTT', 'GTAATTTT']	[0.84, 0.84]	0.84	0.84	[]	[]	[]	[]	.	.	de novo		dnv	44.0	
+47	score-pwm	HIC2	MA0738.1	9	+	{31}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['GTGCAAAGC', 'GTGCAAAGC']	[0.84, 0.84]	0.84	0.84	[]	[]	[]	[]	.	.	de novo		dnv	45.0	
+78	score-pwm	TWIST1	MA1123.1	13	+	{17, 18, 19, 20, 21, 22}	.	.	.	.	.	['Boa']	['serpintized']	['AACCCAGTTGTGC']	[0.84]	0.84	0.84	[]	[]	[]	[]	.	.	de novo		dnv	46.0	
+118	score-pwm	TWIST1	MA1123.2	13	+	{17, 18, 19, 20, 21, 22}	.	.	.	.	.	['Boa']	['serpintized']	['AACCCAGTTGTGC']	[0.84]	0.84	0.84	[]	[]	[]	[]	.	.	de novo		dnv	47.0	
+120	score-pwm	Tcf12	MA0521.2	12	+	{18, 19, 20, 21, 22, 23}	.	.	.	.	.	['Boa']	['serpintized']	['ACCCAGTTGTGC']	[0.84]	0.84	0.84	[]	[]	[]	[]	.	.	de novo		dnv	48.0	
+121	score-pwm	Tcf12	MA0521.2	12	-	{32, 33, 34, 29, 30, 31}	.	.	.	.	.	['Boa']	['serpintized']	['GCACAACTGGGT']	[0.84]	0.84	0.84	[]	[]	[]	[]	.	.	de novo		dnv	49.0	
+157	score-pwm	HAND2	MA1638.2	6	+	{26}	.	.	.	.	.	['Boa']	['serpintized']	['CAGTTG']	[0.84]	0.84	0.84	[]	[]	[]	[]	.	.	de novo		dnv	50.0	
+226	score-pwm	SOX4	MA0867.3	8	-	{33}	.	.	.	.	.	['Python']	['serpintized']	['CACAATTG']	[0.84]	0.84	0.84	[]	[]	[]	[]	.	.	de novo		dnv	51.0	
+231	score-pwm	ZEB1	MA0103.4	6	-	{31}	.	.	.	.	.	['Boa']	['serpintized']	['CAACTG']	[0.84]	0.84	0.84	[]	[]	[]	[]	.	.	de novo		dnv	52.0	
+14	score-pwm	ALX3	MA0634.1	10	+	{5, 6}	.	.	.	.	.	['Python', 'Python', 'Boa', 'Boa']	['serpintized', 'serpintized', 'serpintized', 'serpintized']	['AGTAATTTTG', 'AGTAATTTTG', 'AGTAATTTTA', 'AGTAATTTTA']	[0.81, 0.81, 0.83, 0.83]	0.81	0.83	[]	[]	[]	[]	.	.	de novo		dnv	53.0	
+20	score-pwm	MSX1	MA0666.1	8	-	{14}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['AAAATTAC', 'AAAATTAC']	[0.83, 0.83]	0.83	0.83	[]	[]	[]	[]	.	.	de novo		dnv	54.0	
+27	score-pwm	TEAD1	MA0090.2	10	-	{13, 14}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['AAAATTACTT', 'AAAATTACTT']	[0.83, 0.83]	0.83	0.83	[]	[]	[]	[]	.	.	de novo		dnv	55.0	
+58	score-pwm	CEBPG	MA0838.1	10	+	{10}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['ATTTTGAAAC', 'ATTTTACAAC']	[0.81, 0.83]	0.81	0.83	[]	[]	[]	[]	.	.	de novo		dnv	56.0	
+69	score-pwm	HOXB2	MA0902.1	10	+	{5, 6}	.	.	.	.	.	['Python', 'Python', 'Boa', 'Boa']	['serpintized', 'serpintized', 'serpintized', 'serpintized']	['AGTAATTTTG', 'AGTAATTTTG', 'AGTAATTTTA', 'AGTAATTTTA']	[0.83, 0.83, 0.83, 0.83]	0.83	0.83	[]	[]	[]	[]	.	.	de novo		dnv	57.0	
+79	score-pwm	ZEB1	MA0103.3	11	-	{32, 33, 28, 29, 30, 31}	.	.	.	.	.	['Boa']	['serpintized']	['CACAACTGGGT']	[0.83]	0.83	0.83	[]	[]	[]	[]	.	.	de novo		dnv	58.0	
+109	score-pwm	HAND2	MA1638.1	10	+	{19, 20, 21, 22, 23, 24}	.	.	.	.	.	['Boa']	['serpintized']	['CCCAGTTGTG']	[0.83]	0.83	0.83	[]	[]	[]	[]	.	.	de novo		dnv	59.0	
+138	score-pwm	ZSCAN21	MA2336.1	7	-	{12}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['AATTACT', 'AATTACT']	[0.83, 0.83]	0.83	0.83	[]	[]	[]	[]	.	.	de novo		dnv	60.0	
+147	score-pwm	CEBPG	MA1636.2	10	+	{28}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['ATTGTGCAAA', 'GTTGTGCAAA']	[0.83, 0.81]	0.81	0.83	[]	[]	[]	[]	.	.	de novo		dnv	61.0	
+158	score-pwm	HIC2	MA0738.2	6	+	{31}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['GTGCAA', 'GTGCAA']	[0.83, 0.83]	0.83	0.83	[]	[]	[]	[]	.	.	de novo		dnv	62.0	
+198	score-pwm	HOXD9	MA0913.3	9	-	{19, 20, 21, 22, 23, 24}	.	.	.	.	.	['Boa', 'Boa', 'Boa', 'Boa', 'Boa', 'Boa']	['serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized']	['GTTGTAAAA', 'GTTGTAAAA', 'GTTGTAAAA', 'GTTGTAAAA', 'GTTGTAAAA', 'GTTGTAAAA']	[0.83, 0.83, 0.83, 0.83, 0.83, 0.83]	0.83	0.83	[]	[]	[]	[]	.	.	de novo		dnv	63.0	
+206	score-pwm	MSX1	MA0666.3	6	-	{13}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['AAATTA', 'AAATTA']	[0.83, 0.83]	0.83	0.83	[]	[]	[]	[]	.	.	de novo		dnv	64.0	
+208	score-pwm	NFATC3	MA0625.3	6	+	{1, 2}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['TGGAAG', 'TGGAAG']	[0.83, 0.83]	0.83	0.83	[]	[]	[]	[]	.	.	de novo		dnv	65.0	
+227	score-pwm	TCF7	MA0769.3	7	+	{11}	.	.	.	.	.	['Python']	['serpintized']	['TTTTGAA']	[0.83]	0.83	0.83	[]	[]	[]	[]	.	.	de novo		dnv	66.0	
+229	score-pwm	TFCP2	MA1968.2	9	+	{17, 18, 19, 20, 21, 22}	.	.	.	.	.	['Boa']	['serpintized']	['AACCCAGTT']	[0.83]	0.83	0.83	[]	[]	[]	[]	.	.	de novo		dnv	67.0	
+59	score-pwm	CEBPG	MA0838.1	10	-	{19, 20, 21, 22, 23, 24}	.	.	.	.	.	['Python', 'Python', 'Python', 'Python', 'Python', 'Python', 'Boa', 'Boa', 'Boa', 'Boa', 'Boa', 'Boa']	['serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized']	['GTTTCAAAAT', 'GTTTCAAAAT', 'GTTTCAAAAT', 'GTTTCAAAAT', 'GTTTCAAAAT', 'GTTTCAAAAT', 'GTTGTAAAAT', 'GTTGTAAAAT', 'GTTGTAAAAT', 'GTTGTAAAAT', 'GTTGTAAAAT', 'GTTGTAAAAT']	[0.82, 0.82, 0.82, 0.82, 0.82, 0.82, 0.82, 0.82, 0.82, 0.82, 0.82, 0.82]	0.82	0.82	[]	[]	[]	[]	.	.	de novo		dnv	68.0	
+75	score-pwm	HOXD13	MA0909.1	10	-	{19, 20, 21, 22, 23, 24}	.	.	.	.	.	['Boa', 'Boa', 'Boa', 'Boa', 'Boa', 'Boa']	['serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized']	['GTTGTAAAAT', 'GTTGTAAAAT', 'GTTGTAAAAT', 'GTTGTAAAAT', 'GTTGTAAAAT', 'GTTGTAAAAT']	[0.82, 0.82, 0.82, 0.82, 0.82, 0.82]	0.82	0.82	[]	[]	[]	[]	.	.	de novo		dnv	69.0	
+102	score-pwm	HOXD9	MA0913.2	10	-	{19, 20, 21, 22, 23, 24}	.	.	.	.	.	['Boa', 'Boa', 'Boa', 'Boa', 'Boa', 'Boa']	['serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized']	['GTTGTAAAAT', 'GTTGTAAAAT', 'GTTGTAAAAT', 'GTTGTAAAAT', 'GTTGTAAAAT', 'GTTGTAAAAT']	[0.82, 0.82, 0.82, 0.82, 0.82, 0.82]	0.82	0.82	[]	[]	[]	[]	.	.	de novo		dnv	70.0	
+146	score-pwm	CEBPG	MA1636.2	10	+	{10}	.	.	.	.	.	['Python']	['serpintized']	['ATTTTGAAAC']	[0.82]	0.82	0.82	[]	[]	[]	[]	.	.	de novo		dnv	71.0	
+64	score-pwm	CDX1	MA0878.1	9	+	{7}	.	.	.	.	.	['Boa']	['serpintized']	['GTAATTTTA']	[0.81]	0.81	0.81	[]	[]	[]	[]	.	.	de novo		dnv	72.0	
+73	score-pwm	HOXB3	MA0903.1	10	+	{5, 6}	.	.	.	.	.	['Python', 'Python', 'Boa', 'Boa']	['serpintized', 'serpintized', 'serpintized', 'serpintized']	['AGTAATTTTG', 'AGTAATTTTG', 'AGTAATTTTA', 'AGTAATTTTA']	[0.81, 0.81, 0.81, 0.81]	0.81	0.81	[]	[]	[]	[]	.	.	de novo		dnv	73.0	
+108	score-pwm	CEBPG	MA1636.1	15	+	{8, 9, 10, 11, 12, 13}	.	.	.	.	.	['Python']	['serpintized']	['TAATTTTGAAACCCA']	[0.81]	0.81	0.81	[]	[]	[]	[]	.	.	de novo		dnv	74.0	
+111	score-pwm	PRDM4	MA1647.1	11	-	{23, 24, 25, 26, 27, 28}	.	.	.	.	.	['Python']	['serpintized']	['TTGGGTTTCAA']	[0.81]	0.81	0.81	[]	[]	[]	[]	.	.	de novo		dnv	75.0	
+122	score-pwm	NFATC3	MA0625.2	9	+	{0, 1}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['ATGGAAGTA', 'ATGGAAGTA']	[0.81, 0.81]	0.81	0.81	[]	[]	[]	[]	.	.	de novo		dnv	76.0	
+123	score-pwm	Twist2	MA0633.2	10	+	{19, 20, 21, 22, 23, 24}	.	.	.	.	.	['Boa']	['serpintized']	['CCCAGTTGTG']	[0.81]	0.81	0.81	[]	[]	[]	[]	.	.	de novo		dnv	77.0	
+124	score-pwm	Twist2	MA0633.2	10	-	{32, 33, 28, 29, 30, 31}	.	.	.	.	.	['Boa']	['serpintized']	['CACAACTGGG']	[0.81]	0.81	0.81	[]	[]	[]	[]	.	.	de novo		dnv	78.0	
+135	score-pwm	HOXA7	MA1498.2	8	-	{32}	.	.	.	.	.	['Python']	['serpintized']	['ACAATTGG']	[0.81]	0.81	0.81	[]	[]	[]	[]	.	.	de novo		dnv	79.0	
+137	score-pwm	ZSCAN21	MA2336.1	7	+	{4, 5}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['AAGTAAT', 'AAGTAAT']	[0.81, 0.81]	0.81	0.81	[]	[]	[]	[]	.	.	de novo		dnv	80.0	
+168	score-pwm	HOXA9	MA0594.3	7	+	{3, 4}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['GAAGTAA', 'GAAGTAA']	[0.81, 0.81]	0.81	0.81	[]	[]	[]	[]	.	.	de novo		dnv	81.0	
+207	score-pwm	MSX1	MA0666.3	6	-	{31}	.	.	.	.	.	['Python']	['serpintized']	['CAATTG']	[0.81]	0.81	0.81	[]	[]	[]	[]	.	.	de novo		dnv	82.0	
+254	score-pwm	TBP	MA0108.3	7	-	{17}	.	.	.	.	.	['Boa']	['serpintized']	['TGTAAAA']	[0.81]	0.81	0.81	[]	[]	[]	[]	.	.	de novo		dnv	83.0	
+6	score-pwm	HOXA5	MA0158.1	8	+	{4, 5}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['AAGTAATT', 'AAGTAATT']	[0.8, 0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	84.0	
+7	score-pwm	MEF2C	MA0497.1	15	-	{18, 19, 20, 21, 22, 23, 24}	.	.	.	.	.	['Python', 'Python', 'Python', 'Python', 'Python', 'Python']	['serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized', 'serpintized']	['GTTTCAAAATTACTT', 'GTTTCAAAATTACTT', 'GTTTCAAAATTACTT', 'GTTTCAAAATTACTT', 'GTTTCAAAATTACTT', 'GTTTCAAAATTACTT']	[0.8, 0.8, 0.8, 0.8, 0.8, 0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	85.0	
+8	score-pwm	LIN54	MA0619.1	9	+	{11}	.	.	.	.	.	['Python']	['serpintized']	['TTTTGAAAC']	[0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	86.0	
+128	score-pwm	CDX1	MA0878.3	10	-	{20, 21, 22, 23, 24, 25}	.	.	.	.	.	['Boa']	['serpintized']	['GGTTGTAAAA']	[0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	87.0	
+203	score-pwm	MEF2A	MA0052.5	10	-	{16}	.	.	.	.	.	['Boa']	['serpintized']	['GTAAAATTAC']	[0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	88.0	
+210	score-pwm	NFIL3	MA0025.3	9	+	{11}	.	.	.	.	.	['Python']	['serpintized']	['TTTTGAAAC']	[0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	89.0	
+228	score-pwm	TCF7	MA0769.3	7	-	{38}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['CTTTGCA', 'CTTTGCA']	[0.8, 0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	90.0	
+248	score-pwm	Sox11	MA0869.3	8	+	{31}	.	.	.	.	.	['Python', 'Boa']	['serpintized', 'serpintized']	['GTGCAAAG', 'GTGCAAAG']	[0.8, 0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	91.0	
+251	score-pwm	Twist2	MA0633.3	6	+	{26}	.	.	.	.	.	['Boa']	['serpintized']	['CAGTTG']	[0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	92.0	
+252	score-pwm	Twist2	MA0633.3	6	-	{31}	.	.	.	.	.	['Boa']	['serpintized']	['CAACTG']	[0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	93.0	

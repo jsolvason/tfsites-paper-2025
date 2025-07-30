@@ -1,0 +1,17 @@
+Sequence Name	TF Name	Kmer ID	Kmer	Start Position (1-indexed)	End Position (1-indexed)	Ref Data Type	Value	Site Direction	Duplicate Kmer IDs	Matrix ID
+hZRS	HAND2	HAND2:1	CAGATG	416	421			+		
+hZRS	HOX	HOX:9	TTTTATGA	414	407	Affinity	0.77	-		
+hZRS	PBX	PBX:1	TTTGAAAT	351	344	Affinity	0.61	-		
+hZRS	HOX	HOX:2	TTTTAATA	322	315	Affinity	0.56	-		
+hZRS	HOX	HOX:7	ATAAAAGT	392	385	Affinity	0.52	-		
+hZRS	HOX	HOX:8	TATTTTAT	405	412	Affinity	0.48	+		
+hZRS	HOX	HOX:3	TTTAATAT	323	316	Affinity	0.47	-		
+hZRS	HOX	HOX:6	ACATAAAA	383	390	Affinity	0.44	+		
+hZRS	HOX	HOX:1	TTTTTAAT	314	321	Affinity	0.43	+		
+hZRS	LHX	LHX:1	CTAATTTG	440	447	Affinity	0.4	+		
+hZRS	HOX	HOX:4	TGGTTTAT	357	364	Affinity	0.27	+		
+hZRS	ETS	ETS:3	TAGGAAGT	483	490	Affinity	0.26	+		
+hZRS	HOX	HOX:5	GTTTATGT	366	359	Affinity	0.24	-		
+hZRS	HOX	HOX:10	TTAAAGAG	470	463	Affinity	0.22	-		
+hZRS	ETS	ETS:1	CTATCCTG	335	328	Affinity	0.15	-		
+hZRS	ETS	ETS:2	TTTTCCCC	432	425	Affinity	0.14	-		

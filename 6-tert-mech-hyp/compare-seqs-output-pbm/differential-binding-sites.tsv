@@ -1,0 +1,5 @@
+site-id	tf-strength-type	tf-name	tf-definition	kmer-length	strand	start-set	wt-max-taken	wt-name	wt-group	wt-kmer	wt-strength	test-name-list	test-group-list	test-kmer-list	test-strength-list	test-strength-min	test-strength-max	control-name-list	control-group-list	control-kmer-list	control-strength-list	control-strength-min	control-strength-max	gof-delta	lof-delta	variant-effect	gof-rank	lof-rank
+24	core-affinity	E2F	NCSCGCGN	8	+	{64, 63}	.	.	.	.	.	['68C-']	['GOF']	['TCGCGCGC']	[0.47]	0.47	0.47	[]	[]	[]	[]	.	.	de novo		dnv	1.0	
+25	core-affinity	E2F	NCSCGCGN	8	+	{65, 66}	.	.	.	.	.	['68C-']	['GOF']	['GCGCGCGA']	[0.47]	0.47	0.47	[]	[]	[]	[]	.	.	de novo		dnv	2.0	
+26	core-affinity	E2F	NCSCGCGN	8	-	{70, 71}	.	.	.	.	.	['68C-']	['GOF']	['GCGCGCGA']	[0.47]	0.47	0.47	[]	[]	[]	[]	.	.	de novo		dnv	3.0	
+27	core-affinity	E2F	NCSCGCGN	8	-	{72, 73}	.	.	.	.	.	['68C-']	['GOF']	['TCGCGCGC']	[0.47]	0.47	0.47	[]	[]	[]	[]	.	.	de novo		dnv	4.0	

@@ -1,0 +1,50 @@
+site-id	tf-strength-type	tf-name	tf-definition	kmer-length	strand	start-set	wt-max-taken	wt-name	wt-group	wt-kmer	wt-strength	test-name-list	test-group-list	test-kmer-list	test-strength-list	test-strength-min	test-strength-max	control-name-list	control-group-list	control-kmer-list	control-strength-list	control-strength-min	control-strength-max	gof-delta	lof-delta	variant-effect	gof-rank	lof-rank
+0	score-pwm	MAFG::NFE2L1	MA0089.1	6	+	{15}	.	ref_21_ZRS	ref	GATGAT	0.83	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		1.0
+84	score-pwm	NFYB	MA0502.3	9	-	{16}	.	ref_21_ZRS	ref	TCAGTGGCA	0.81	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		2.0
+85	score-pwm	NFYC	MA1644.2	7	+	{10}	.	ref_21_ZRS	ref	CCACTGA	0.81	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		3.0
+54	score-pwm	BACH2	MA1101.3	11	-	{25}	.	ref_21_ZRS	ref	TATGGATCATC	0.8	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		4.0
+80	score-pwm	MAFG::NFE2L1	MA0089.3	11	-	{24}	.	ref_21_ZRS	ref	ATGGATCATCA	0.8	[]	[]	[]	[]	.	.	[]	[]	[]	[]	.	.		ablation	abl		5.0
+33	score-pwm	HOXB4	MA1499.1	8	-	{20}	.	.	.	.	.	['555_G_A']	['polydactyly']	['ATCATTAG']	[1.0]	1.0	1.0	[]	[]	[]	[]	.	.	de novo		dnv	1.0	
+35	score-pwm	HOXC4	MA1504.1	8	-	{20}	.	.	.	.	.	['555_G_A']	['polydactyly']	['ATCATTAG']	[1.0]	1.0	1.0	[]	[]	[]	[]	.	.	de novo		dnv	2.0	
+36	score-pwm	HOXD4	MA1507.1	8	-	{20}	.	.	.	.	.	['555_G_A']	['polydactyly']	['ATCATTAG']	[1.0]	1.0	1.0	[]	[]	[]	[]	.	.	de novo		dnv	3.0	
+70	score-pwm	HOXB4	MA1499.2	6	-	{19}	.	.	.	.	.	['555_G_A']	['polydactyly']	['TCATTA']	[1.0]	1.0	1.0	[]	[]	[]	[]	.	.	de novo		dnv	4.0	
+74	score-pwm	HOXC4	MA1504.2	6	-	{19}	.	.	.	.	.	['555_G_A']	['polydactyly']	['TCATTA']	[1.0]	1.0	1.0	[]	[]	[]	[]	.	.	de novo		dnv	5.0	
+75	score-pwm	HOXD4	MA1507.2	6	-	{19}	.	.	.	.	.	['555_G_A']	['polydactyly']	['TCATTA']	[1.0]	1.0	1.0	[]	[]	[]	[]	.	.	de novo		dnv	6.0	
+2	score-pwm	HOXA5	MA0158.1	8	+	{11}	.	.	.	.	.	['555_G_A']	['polydactyly']	['CACTAATG']	[0.96]	0.96	0.96	[]	[]	[]	[]	.	.	de novo		dnv	7.0	
+66	score-pwm	HOXB2	MA0902.3	6	-	{19}	.	.	.	.	.	['555_G_A']	['polydactyly']	['TCATTA']	[0.92]	0.92	0.92	[]	[]	[]	[]	.	.	de novo		dnv	8.0	
+71	score-pwm	HOXB5	MA0904.3	6	+	{14}	.	.	.	.	.	['555_G_A']	['polydactyly']	['TAATGA']	[0.9]	0.9	0.9	[]	[]	[]	[]	.	.	de novo		dnv	9.0	
+72	score-pwm	HOXB5	MA0904.3	6	-	{19}	.	.	.	.	.	['555_G_A']	['polydactyly']	['TCATTA']	[0.9]	0.9	0.9	[]	[]	[]	[]	.	.	de novo		dnv	10.0	
+9	score-pwm	LHX2	MA0700.1	10	+	{12}	.	.	.	.	.	['555_G_A']	['polydactyly']	['ACTAATGATC']	[0.89]	0.89	0.89	[]	[]	[]	[]	.	.	de novo		dnv	11.0	
+53	score-pwm	ALX3	MA0634.2	6	-	{19}	.	.	.	.	.	['555_G_A']	['polydactyly']	['TCATTA']	[0.89]	0.89	0.89	[]	[]	[]	[]	.	.	de novo		dnv	12.0	
+90	score-pwm	PRRX1	MA0716.2	6	+	{14}	.	.	.	.	.	['555_G_A']	['polydactyly']	['TAATGA']	[0.89]	0.89	0.89	[]	[]	[]	[]	.	.	de novo		dnv	13.0	
+32	score-pwm	HOXA7	MA1498.1	8	-	{20}	.	.	.	.	.	['555_G_A']	['polydactyly']	['ATCATTAG']	[0.87]	0.87	0.87	[]	[]	[]	[]	.	.	de novo		dnv	14.0	
+37	score-pwm	HOXA9	MA0594.2	10	-	{20}	.	.	.	.	.	['555_G_A']	['polydactyly']	['ATCATTAGTG']	[0.87]	0.87	0.87	[]	[]	[]	[]	.	.	de novo		dnv	15.0	
+10	score-pwm	LHX2	MA0700.1	10	-	{21}	.	.	.	.	.	['555_G_A']	['polydactyly']	['GATCATTAGT']	[0.86]	0.86	0.86	[]	[]	[]	[]	.	.	de novo		dnv	16.0	
+16	score-pwm	PRRX1	MA0716.1	8	+	{13}	.	.	.	.	.	['555_G_A']	['polydactyly']	['CTAATGAT']	[0.86]	0.86	0.86	[]	[]	[]	[]	.	.	de novo		dnv	17.0	
+17	score-pwm	PRRX1	MA0716.1	8	-	{20}	.	.	.	.	.	['555_G_A']	['polydactyly']	['ATCATTAG']	[0.86]	0.86	0.86	[]	[]	[]	[]	.	.	de novo		dnv	18.0	
+52	score-pwm	ALX3	MA0634.2	6	+	{14}	.	.	.	.	.	['555_G_A']	['polydactyly']	['TAATGA']	[0.86]	0.86	0.86	[]	[]	[]	[]	.	.	de novo		dnv	19.0	
+65	score-pwm	HOXB2	MA0902.3	6	+	{14}	.	.	.	.	.	['555_G_A']	['polydactyly']	['TAATGA']	[0.86]	0.86	0.86	[]	[]	[]	[]	.	.	de novo		dnv	20.0	
+73	score-pwm	HOXB6	MA1500.2	7	+	{14}	.	.	.	.	.	['555_G_A']	['polydactyly']	['TAATGAT']	[0.86]	0.86	0.86	[]	[]	[]	[]	.	.	de novo		dnv	21.0	
+5	score-pwm	MSX1	MA0666.1	8	+	{13}	.	.	.	.	.	['555_G_A']	['polydactyly']	['CTAATGAT']	[0.85]	0.85	0.85	[]	[]	[]	[]	.	.	de novo		dnv	22.0	
+6	score-pwm	MSX1	MA0666.1	8	-	{20}	.	.	.	.	.	['555_G_A']	['polydactyly']	['ATCATTAG']	[0.85]	0.85	0.85	[]	[]	[]	[]	.	.	de novo		dnv	23.0	
+7	score-pwm	Prrx2	MA0075.2	8	+	{13}	.	.	.	.	.	['555_G_A']	['polydactyly']	['CTAATGAT']	[0.85]	0.85	0.85	[]	[]	[]	[]	.	.	de novo		dnv	24.0	
+8	score-pwm	Prrx2	MA0075.2	8	-	{20}	.	.	.	.	.	['555_G_A']	['polydactyly']	['ATCATTAG']	[0.85]	0.85	0.85	[]	[]	[]	[]	.	.	de novo		dnv	25.0	
+14	score-pwm	LMX1B	MA0703.1	8	+	{13}	.	.	.	.	.	['555_G_A']	['polydactyly']	['CTAATGAT']	[0.84]	0.84	0.84	[]	[]	[]	[]	.	.	de novo		dnv	26.0	
+15	score-pwm	LMX1B	MA0703.1	8	-	{20}	.	.	.	.	.	['555_G_A']	['polydactyly']	['ATCATTAG']	[0.84]	0.84	0.84	[]	[]	[]	[]	.	.	de novo		dnv	27.0	
+34	score-pwm	HOXB6	MA1500.1	8	+	{13}	.	.	.	.	.	['555_G_A']	['polydactyly']	['CTAATGAT']	[0.84]	0.84	0.84	[]	[]	[]	[]	.	.	de novo		dnv	28.0	
+39	score-pwm	HOXB5	MA0904.2	8	+	{13}	.	.	.	.	.	['555_G_A']	['polydactyly']	['CTAATGAT']	[0.84]	0.84	0.84	[]	[]	[]	[]	.	.	de novo		dnv	29.0	
+38	score-pwm	HOXB2	MA0902.2	8	-	{20}	.	.	.	.	.	['555_G_A']	['polydactyly']	['ATCATTAG']	[0.83]	0.83	0.83	[]	[]	[]	[]	.	.	de novo		dnv	30.0	
+40	score-pwm	HOXB5	MA0904.2	8	-	{20}	.	.	.	.	.	['555_G_A']	['polydactyly']	['ATCATTAG']	[0.83]	0.83	0.83	[]	[]	[]	[]	.	.	de novo		dnv	31.0	
+11	score-pwm	LHX9	MA0701.1	8	-	{20}	.	.	.	.	.	['555_G_A']	['polydactyly']	['ATCATTAG']	[0.82]	0.82	0.82	[]	[]	[]	[]	.	.	de novo		dnv	32.0	
+4	score-pwm	ALX3	MA0634.1	10	+	{12}	.	.	.	.	.	['555_G_A']	['polydactyly']	['ACTAATGATC']	[0.81]	0.81	0.81	[]	[]	[]	[]	.	.	de novo		dnv	33.0	
+31	score-pwm	HOXA7	MA1498.1	8	+	{13}	.	.	.	.	.	['555_G_A']	['polydactyly']	['CTAATGAT']	[0.81]	0.81	0.81	[]	[]	[]	[]	.	.	de novo		dnv	34.0	
+27	score-pwm	Hoxd8	MA0910.1	17	-	{23}	.	.	.	.	.	['555_G_A']	['polydactyly']	['TGGATCATTAGTGGCAA']	[0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	35.0	
+79	score-pwm	LHX2	MA0700.3	6	-	{19}	.	.	.	.	.	['555_G_A']	['polydactyly']	['TCATTA']	[0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	36.0	
+86	score-pwm	NFYC	MA1644.2	7	+	{13}	.	.	.	.	.	['555_G_A']	['polydactyly']	['CTAATGA']	[0.8]	0.8	0.8	[]	[]	[]	[]	.	.	de novo		dnv	37.0	
+64	score-pwm	HOXA9	MA0594.3	7	-	{20}	.	ref_21_ZRS	ref	ATCATCA	0.85	['555_G_A']	['polydactyly']	['ATCATTA']	[0.94]	0.94	0.94	[]	[]	[]	[]	.	.	0.08999999999999997		inc	89.0	
+61	score-pwm	HOXA7	MA1498.3	6	-	{19}	.	ref_21_ZRS	ref	TCATCA	0.85	['555_G_A']	['polydactyly']	['TCATTA']	[0.97]	0.97	0.97	[]	[]	[]	[]	.	.	0.12		inc	93.0	
+67	score-pwm	HOXB3	MA0903.2	6	-	{19}	.	ref_21_ZRS	ref	TCATCA	0.85	['555_G_A']	['polydactyly']	['TCATTA']	[0.98]	0.98	0.98	[]	[]	[]	[]	.	.	0.13		inc	94.0	
+25	score-pwm	HOXB2	MA0902.1	10	-	{21}	.	ref_21_ZRS	ref	GATCATCAGT	0.83	['555_G_A']	['polydactyly']	['GATCATTAGT']	[0.93]	0.93	0.93	[]	[]	[]	[]	.	.	0.10000000000000009		inc	90.0	
+26	score-pwm	HOXB3	MA0903.1	10	-	{21}	.	ref_21_ZRS	ref	GATCATCAGT	0.82	['555_G_A']	['polydactyly']	['GATCATTAGT']	[0.93]	0.93	0.93	[]	[]	[]	[]	.	.	0.1100000000000001		inc	92.0	
+88	score-pwm	PRRX1	MA0716.2	6	-	{19}	.	ref_21_ZRS	ref	TCATCA	0.81	['555_G_A']	['polydactyly']	['TCATTA']	[0.89]	0.89	0.89	[]	[]	[]	[]	.	.	0.07999999999999996		inc	88.0	
+50	score-pwm	HOXA7	MA1498.2	8	-	{20}	.	ref_21_ZRS	ref	ATCATCAG	0.8	['555_G_A']	['polydactyly']	['ATCATTAG']	[0.91]	0.91	0.91	[]	[]	[]	[]	.	.	0.10999999999999999		inc	91.0	

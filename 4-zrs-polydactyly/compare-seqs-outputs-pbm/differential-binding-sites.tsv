@@ -1,0 +1,3 @@
+site-id	tf-strength-type	tf-name	tf-definition	kmer-length	strand	start-set	wt-max-taken	wt-name	wt-group	wt-kmer	wt-strength	test-name-list	test-group-list	test-kmer-list	test-strength-list	test-strength-min	test-strength-max	control-name-list	control-group-list	control-kmer-list	control-strength-list	control-strength-min	control-strength-max	gof-delta	lof-delta	variant-effect	gof-rank	lof-rank
+1	core-affinity	Msx1	NYAATNRN	8	+	{13}	.	.	.	.	.	['555_G_A']	['polydactyly']	['CTAATGAT']	[0.54]	0.54	0.54	[]	[]	[]	[]	.	.	de novo		dnv	1.0	
+0	core-affinity	Lhx2	NYAATNRN	8	+	{13}	.	.	.	.	.	['555_G_A']	['polydactyly']	['CTAATGAT']	[0.37]	0.37	0.37	[]	[]	[]	[]	.	.	de novo		dnv	2.0	
